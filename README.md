@@ -1,2 +1,2 @@
-# Frontend_JavaScript_Task3
- Implementing Search Functionality for Profile Page
+# Frontend_JavaScript_Task6
+Data Visualization for Your Profile Website
