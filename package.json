@@ -1,0 +1,12 @@
+{
+  "name": "skills-chart",
+  "version": "1.0.0",
+  "description": "A profile page with a skills chart using JavaScript and Chart.js",
+  "main": "script.js",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "NFThing",
+  "license": "ISC",
+  "dependencies": {}
+}
